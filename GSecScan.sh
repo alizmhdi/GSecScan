@@ -97,3 +97,4 @@ validate $#
 Initialize $1 $2
 fetch_repositories
 scan_repositories
+cleanup
