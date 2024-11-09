@@ -2,8 +2,6 @@
 
 requirement_check() {
 
-    echo "Initializing the gitscan"
-
     echo -n "Checking if jq is installed..."
     if ! command -v jq &> /dev/null
     then
